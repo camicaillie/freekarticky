@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/flashcards/', // Match the path from homepage in package.json
+  base: '/freekarticky/', // Match GitHub Pages repository name
 });
