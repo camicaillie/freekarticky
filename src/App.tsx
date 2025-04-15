@@ -1,7 +1,6 @@
 import { useState, useEffect } from 'react';
 import { FlashcardDeck } from './components/FlashcardDeck';
 import { WelcomePage } from './components/WelcomePage';
-import { PasswordPrompt } from './components/PasswordPrompt';
 import { WelcomeGuide } from './components/WelcomeGuide';
 import { GuideTooltip } from './components/GuideTooltip';
 import { flashcardSets, FlashcardSet } from './data/flashcards';
